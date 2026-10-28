@@ -1,1 +1,1 @@
-Luma release dosyaları.
+Mandalin Release
